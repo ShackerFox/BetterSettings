@@ -1,2 +1,2 @@
-# my-bd-themes
-my bd settings
+# BetterSettings
+BetterSettings
